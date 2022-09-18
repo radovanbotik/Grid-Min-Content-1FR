@@ -73,7 +73,6 @@ body section.ep-list2 ul li .ep {
 }
 body section.ep-list2 ul li .ep img {
   width: 100%;
-  min-height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: 40%;
