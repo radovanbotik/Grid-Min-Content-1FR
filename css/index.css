@@ -39,7 +39,6 @@ body section.ep-list1 ul li .ep {
   min-width: 100%;
   display: grid;
   gap: 2ex;
-  grid-template-columns: 1fr 1fr;
 }
 body section.ep-list1 ul li .ep img {
   width: 100%;

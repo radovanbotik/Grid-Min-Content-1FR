@@ -40,7 +40,6 @@ body {
       row-gap: 4ex;
       column-gap: 2ex;
       grid-template-columns: repeat(auto-fit, minmax(400px, min-content));
-      // grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 
       li .ep {
         background-color: #745da7;
@@ -48,7 +47,6 @@ body {
         min-width: 100%;
         display: grid;
         gap: 2ex;
-        grid-template-columns: 1fr 1fr;
 
         img {
           width: 100%;
